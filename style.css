@@ -1,0 +1,15 @@
+h1,h2{
+	font-family: Arial,sans-serif;
+	color: purple ;
+	font-weight: bolder;
+	 font-family: Tahoma;
+}
+body{
+	background: silver;
+}
+p{
+ font-weight: bold;
+}
+ul{
+	font-family: Times New Roman;
+}
